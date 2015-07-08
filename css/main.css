@@ -8,6 +8,13 @@ html, button, input, select, textarea {
  * Customize the background color to match your design.
  */
 
+ .iosImage {
+
+   width: 50px;
+
+ }
+
+
 ::-moz-selection {
   background: #000000;
   text-shadow: none;
