@@ -143,7 +143,7 @@ footer {
 
 #cover-1 .baselayer {
   background-color: #000000;
-  background-image: url('../img/random_butterfly.jpg');
+  background-image: url('../img/veggies.jpg');
 }
 #cover-1 .covercontainer {
   z-index: 80;
@@ -173,5 +173,5 @@ footer {
 }
 
 .glyphicon-heart {
-  color: rgb(0, 176, 195);
+  color: rgb(113, 148, 0);
 }
